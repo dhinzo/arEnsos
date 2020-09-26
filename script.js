@@ -30,7 +30,7 @@ function renderPlaces(places) {
     model.setAttribute("gltf-model", "./assets/Red_Enso_3Rings2.glb")
     model.setAttribute("rotation", "0 180 0")
     model.setAttribute("animation-mixer", "")
-    model.setAttribute("scale", "0.5 0.5 0.5")
+    model.setAttribute("scale", "1 1 1")
 
     model.addEventListener("loaded", () => {
       window.dispatchEvent(new CustomEvent("gps-entity-place-loaded"))
