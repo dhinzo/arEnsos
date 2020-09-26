@@ -28,9 +28,9 @@ function renderPlaces(places) {
       `latitude: ${latitude}; longitude: ${longitude};`
     )
     model.setAttribute("gltf-model", "./assets/Red_Enso_3Rings2.glb")
-    model.setAttribute("rotation", "0 180 0")
+    // model.setAttribute("rotation", "0 180 0")
     model.setAttribute("animation-mixer", "")
-    model.setAttribute("scale", "3 3 3")
+    model.setAttribute("scale", "10 10 10")
 
     model.addEventListener("loaded", () => {
       window.dispatchEvent(new CustomEvent("gps-entity-place-loaded"))
