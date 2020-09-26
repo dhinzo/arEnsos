@@ -8,8 +8,8 @@ function staticLoadPlaces() {
     {
       name: "AR Sculpture",
       location: {
-        lat: 41.497917,
-        lng: -81.570093,
+        lat: 41.497726,
+        lng: -81.570082,
       },
     },
   ]
