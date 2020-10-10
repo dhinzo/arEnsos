@@ -1,4 +1,4 @@
 # Augmented Reality Enso Sculptures
 
-### Alessandro Ravagnan & Devin Hinzo
+## Alessandro Ravagnan & Devin Hinzo
 
