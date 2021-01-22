@@ -28,12 +28,11 @@ This project uses the HTML Framework A-Frame for easily creating VR/AR/XR web ex
 
 Final AR on display at the gallery. You can see the original, 2D, physical works to the left.
 
-![ENSO final](https://i.imgur.com/nwvGxta.jpg "Final ENSO")
+![ENSO final](https://i.imgur.com/nwvGxta.jpg?1 "Final ENSO")
 
 Another view from the rooftop of the gallery.
 
 ![ENSO final](https://i.imgur.com/uPnMCOB.jpg "Final ENSO rooftop")
-
 
 
 This is an early protoype. It was difficult find the right file size/type to show the color in the final version. The early protypes were black.
