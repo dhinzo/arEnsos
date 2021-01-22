@@ -19,18 +19,27 @@ Find and Follow Alessandro Ravagnan on Instagram: @alessandro.ravagnan
 
 ### Technology Used
 
-This project uses the HTML Framework A-Frame for easily creating VR/AR/XR web experiences, and AR.js, a JavaScript library for creating and deploying AR projects 100% via the web. These two projects are professionally maintained and aim to make XR accessible for both users and developers. Check them out! They are doing incredible work.
+This project uses the HTML Framework A-Frame for easily creating VR/AR/XR web experiences, and AR.js, a JavaScript library for creating and deploying AR projects 100% via the web. These two projects are professionally maintained and aim to make XR accessible for both users and developers. Check them out!
 
 * [A-Frame](https://aframe.io/) - Web Framework for VR/AR/XR Experiences
 * [AR.js](https://ar-js-org.github.io/AR.js-Docs/) - Lightweight JS Library for Augmented Reality 
 
 ### Stages of the project
 
-At the show opening, the project will consist of just one piece. Until the closing of DUO, there will be new features added. Upcoming features include:
+Final AR on display at the gallery. You can see the original, 2D, physical works to the left.
 
-1. Embedded audio, aurally representing Ensos. Music created by Devin Hinzo.
-2. A button that cycles through 3D models of other Ensos
-3. Have an idea? Let me know!
+![ENSO final](https://i.imgur.com/nwvGxta.jpg "Final ENSO")
+
+Another view from the rooftop of the gallery.
+
+![ENSO final](https://i.imgur.com/uPnMCOB.jpg "Final ENSO rooftop")
+
+
+
+This is an early protoype. It was difficult find the right file size/type to show the color in the final version. The early protypes were black.
+
+![ENSO early](https://i.imgur.com/lQUk3Cr.jpg "early ENSO protoype")
+
 
 ### Known Issues
 
